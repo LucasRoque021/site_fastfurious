@@ -72,6 +72,11 @@ header{
   padding: 5px;
 }
 
+.divIcons a{
+  text-decoration: none;
+  color: rgb(49, 45, 45);
+}
+
 .divIcons i{
   font-size: 20px;
   margin-right: 10px;
